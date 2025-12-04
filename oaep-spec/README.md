@@ -77,8 +77,6 @@ Since we are in **Code Freeze**, we are **NOT** accepting Feature Requests at th
 
 Please refer to `CONTRIBUTING.md` for our Code of Conduct and PR guidelines.
 
-## 📄 License
-
 ## 📄 License & Legal
 
 ### Specification License (Copyleft)

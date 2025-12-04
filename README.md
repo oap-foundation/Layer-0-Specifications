@@ -80,8 +80,7 @@ Please see `CONTRIBUTING.md` for details.
 
 ## 📄 License
 
-*   **Specifications:** [Creative Commons Attribution 4.0 International](LICENSE)
-*   **Code Samples:** MIT License
+The Open Agent Exchange Protocol Specification is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 **Maintained by the OAP Foundation**

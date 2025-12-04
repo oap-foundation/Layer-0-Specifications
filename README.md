@@ -20,7 +20,7 @@ Layer 0 provides the **Root of Trust** for the entire stack. Before any message 
 | :--- | :--- | :--- | :--- | :--- |
 | **OAEP** | **Open Agent Exchange Protocol** | `1.0-RC` | ❄️ Freeze | The handshake protocol for mutual authentication, capability negotiation, and session key derivation. |
 
-👉 **[READ THE OAEP SPECIFICATION](./RFC%20OAEP%20v1.0-RC.md)**
+👉 **[READ THE OAEP SPECIFICATION](./RFC%20OAEP%20v1.0-RC.en.md)**
 
 ## ⚡ Key Technologies
 
